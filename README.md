@@ -4,156 +4,144 @@
 
 </div>
 
-## 🧑‍💻 About Me
+## 🙋‍♀️ About Me
 
-<img align="right" height="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"  />
+🎯 **Product Owner** with 3+ years of experience leading product strategy, defining roadmaps, and translating customer & business needs into actionable features at scale.
 
-Product Owner | CSPO | MSc Engineering Management @ UTA | Building user-centric SaaS products | SQL, Power BI, Jira | Passionate about data-driven decisions 📊
+🎓 Currently pursuing **MSc in Engineering Management** at **The University of Texas at Arlington**
 
-Currently working as **Product Owner** at **Tata Consultancy Services**, where I focus on Owned roadmap and release cycles for a multi-institution admissions SaaS platform serving 20,000+ st...
+💼 Previously at **Tata Consultancy Services**, where I owned the roadmap for a multi-institution **SaaS admissions platform** serving **20,000+ students** across **300+ institutions**
 
-<div align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Akshita1009.Akshita1009" />
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshita1009&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshita1009&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshita1009&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshita1009&theme=react-dark&hide_border=true" />
-</div>
-
-## 🛠️ Technology Arsenal
-
-<div align="center">
-
-### Programming Languages
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=jupyternotebook" height="40" alt="Jupyter Notebook logo" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript logo" />
-  <img src="https://skillicons.dev/icons?i=scss" height="40" alt="SCSS logo" />
-</div>
-
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <a href="https://github.com/Akshita1009/contribution-history">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshita1009&repo=contribution-history&theme=radical" />
-  </a>
-  <a href="https://github.com/Akshita1009/ai-renamer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshita1009&repo=ai-renamer&theme=radical" />
-  </a>
-</div>
-
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <a href="https://github.com/Akshita1009/live-streamlit-dashboard-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshita1009&repo=live-streamlit-dashboard-python&theme=radical" />
-  </a>
-  <a href="https://github.com/Akshita1009/customer-trends-data-analysis-sql-python-powerbi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshita1009&repo=customer-trends-data-analysis-sql-python-powerbi&theme=radical" />
-  </a>
-</div>
-
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <a href="https://github.com/Akshita1009/cohort_analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshita1009&repo=cohort_analysis&theme=radical" />
-  </a>
-  <a href="https://github.com/Akshita1009/user-story-best-practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshita1009&repo=user-story-best-practice&theme=radical" />
-  </a>
-</div>
-
-</div>
-
-## 💼 Professional Journey
-
-<details>
-<summary>📈 Career Timeline</summary>
-
-### 1. Product Owner @ Tata Consultancy Services
-**March 2021 – July 2023**
-
-Owned roadmap and release cycles for a multi-institution admissions SaaS platform serving 20,000+ students across 300+ institutions.
-Translated complex business and customer requirements into 100+ detailed user stories, acceptance criteria, and technical workflows.
-Drove cross-functional alignment with dev, QA, and architects to refine features and strengthen testing, reducing deployment delays by 20%.
-Led Agile ceremonies across 50+ sprints, boosting team alignment, improving velocity by 12%, and sustaining 95% on-time delivery.
-Executed A/B tests on feature launches to guide smarter data-driven prioritization, improving customer engagement by 15%.
-Used Jira, SQL, and Power BI to track KPIs, resolve bottlenecks, and streamline workflows, accelerating time-to-market by 30%.
-Coordinated onboarding for new institutions by overseeing configuration and contracts, ensuring seamless rollout and rapid client adoption.
-
-**Technologies:** Jira, SQL, Power BI
+🏆 **Certified Scrum Product Owner (CSPO)** | **IBM AI Product Manager Professional Certificate**
 
 ---
 
-### 2. System Analyst @ Tata Consultancy Services
-**October 2020 – March 2021**
+## 🔭 What I'm Currently Working On
 
-Gathered and translated technical requirements from 10+ institutions into detailed system workflows and process models for a national student
-ranking platform, cut requirement misinterpretations by 25% by conducting requirement walkthroughs and prototype reviews.
-Collaborated with QA and client teams on testing, validation, and debugging resolving critical features and improving data accuracy by 28%
-Authored process documentation and user guides to support smooth adoption boosting user satisfaction scores by 10%.
-Developed backend logic in Java and integrated UI components, accelerating MVP launch by 1 month.
-
-**Technologies:** Java
+- 📊 Building **Product Analytics Dashboards** using SQL & Power BI
+- 🧪 Exploring **A/B Testing frameworks** for feature optimization
+- 🤖 Deepening knowledge in **AI Product Management**
+- 📈 Creating portfolio projects showcasing **cohort analysis** & **user retention metrics**
 
 ---
 
-### 3. Functional Testing Intern @ Siemens Pvt Ltd
-**June 2018 - August 2018**
+## 🛠️ Skills & Tools
 
-Executed 50+ functional and regression test cases for enterprise software, identifying critical defects and improving release quality by 15%.
-Performed end-to-end workflow testing and documented results, increasing test coverage accuracy by 12%.
-Assisted in test data preparation and environment setup, reducing testing delays by 25% and ensuring smooth execution of test cycle
+### Product Ownership & Strategy
+![Product Roadmaps](https://img.shields.io/badge/Product_Roadmaps-6366F1?style=flat-square)
+![Backlog Prioritization](https://img.shields.io/badge/Backlog_Prioritization-6366F1?style=flat-square)
+![User Stories](https://img.shields.io/badge/User_Stories-6366F1?style=flat-square)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-6366F1?style=flat-square)
+![PRD](https://img.shields.io/badge/PRD-6366F1?style=flat-square)
+![Release Planning](https://img.shields.io/badge/Release_Planning-6366F1?style=flat-square)
+
+### Agile & Project Management
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-009FDA?style=flat-square)
+![Sprint Planning](https://img.shields.io/badge/Sprint_Planning-009FDA?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![MS Project](https://img.shields.io/badge/MS_Project-217346?style=flat-square&logo=microsoft&logoColor=white)
+
+### Data & Analytics
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![KPI Dashboards](https://img.shields.io/badge/KPI_Dashboards-FF6B6B?style=flat-square)
+![Data Validation](https://img.shields.io/badge/Data_Validation-FF6B6B?style=flat-square)
+
+### Technical Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Collaboration Tools
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-273347?style=flat-square&logo=asana&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 ---
 
-</details>
+## 💼 Professional Highlights
 
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-<h3>💬 Ready to bring ideas to life? Let's chat!</h3>
-
-<a href="mailto:a.john1009@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-  <a href="https://www.linkedin.com/in/akshita-mary-john-6a054a147/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-  <a href="https://github.com/Akshita1009">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-
-</div>
+| Metric | Achievement |
+|--------|-------------|
+| 📊 **User Stories Created** | 100+ detailed stories with acceptance criteria |
+| 🚀 **Sprints Led** | 50+ sprints with 95% on-time delivery |
+| 📈 **Velocity Improvement** | 12% increase in team velocity |
+| ⏱️ **Time-to-Market** | 30% faster deployment cycles |
+| 🎯 **Customer Engagement** | 15% improvement via A/B testing |
+| 🏫 **Platform Scale** | 20,000+ students, 300+ institutions |
 
 ---
 
-<div align="center">
+## 🎓 Certifications
 
-### 🐍 Watch my commits get eaten!
+<p align="left">
+  <img src="https://img.shields.io/badge/CSPO-Certified_Scrum_Product_Owner-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="CSPO"/>
+  <img src="https://img.shields.io/badge/IBM-AI_Product_Manager-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI PM"/>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshita1009/Akshita1009/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshita1009/Akshita1009/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Akshita1009/Akshita1009/output/github-contribution-grid-snake.svg">
-</picture>
+---
 
-<h3>💭 Random Dev Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+## 📚 Education
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+🎓 **MSc Engineering Management** - The University of Texas at Arlington, TX *(Current)*
 
-</div>
+🎓 **BSc Electronics & Telecommunication Engineering** - NMIMS University, Mumbai, India
+
+---
+
+## 📂 Featured Projects
+
+### 🖥️ Engineering Management Case Study
+Led a 6-member team to launch a mid-tier laptop from concept to production
+- ✅ 15% reduction in lead time
+- ✅ 10% under budget delivery
+- ✅ Managed 30+ deliverables across 16-week timeline using MS Project
+
+### 📊 Brand Audit - Fossil Watches
+Comprehensive brand analysis with strategic recommendations
+- ✅ Analyzed 100+ reviews & 3 competitors
+- ✅ Conducted 15 in-depth customer interviews
+- ✅ Proposed 10% price repositioning & Gen Z engagement strategy
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshitamaryjohn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitamaryjohn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshita-mary-john/">
+    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  📧 <strong>Email:</strong> a.john1009@gmail.com<br>
+  📍 <strong>Location:</strong> Arlington, Texas<br>
+  📱 <strong>Phone:</strong> +1 (682) 406-8657
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" />
+</p>
+
+<p align="center">
+  ⭐️ <em>Open to Product Manager, Product Owner, Business Analyst & Customer Success roles</em> ⭐️
+</p>
