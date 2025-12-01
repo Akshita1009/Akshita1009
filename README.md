@@ -110,15 +110,17 @@ Comprehensive brand analysis with strategic recommendations
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 What I Bring to the Table
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshitamaryjohn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitamaryjohn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+```text
+🔹 Product Strategy      ████████████████████░   95%
+🔹 Agile & Scrum         ████████████████████░   95%
+🔹 Stakeholder Mgmt      ███████████████████░░   90%
+🔹 Data Analytics        ██████████████████░░░   85%
+🔹 SQL & Power BI        ██████████████████░░░   85%
+🔹 A/B Testing           ████████████████░░░░░   75%
+🔹 Technical Writing     ███████████████████░░   90%
+```
 
 ---
 
