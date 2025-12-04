@@ -88,7 +88,7 @@
 
 ## 📚 Education
 
-🎓 **MSc Engineering Management** - The University of Texas at Arlington, TX **
+🎓 **MSc Engineering Management** - The University of Texas at Arlington, TX 
 
 🎓 **BSc Electronics & Telecommunication Engineering** - NMIMS University, Mumbai, India
 
