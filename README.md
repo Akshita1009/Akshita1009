@@ -8,7 +8,7 @@
 
 🎯 **Product Owner** with 3+ years of experience leading product strategy, defining roadmaps, and translating customer & business needs into actionable features at scale.
 
-🎓 Currently pursuing **MSc in Engineering Management** at **The University of Texas at Arlington**
+🎓 **MSc in Engineering Management** at **The University of Texas at Arlington**
 
 💼 Previously at **Tata Consultancy Services**, where I owned the roadmap for a multi-institution **SaaS admissions platform** serving **20,000+ students** across **300+ institutions**
 
